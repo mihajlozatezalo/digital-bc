@@ -78,12 +78,7 @@
     </div>
     <script>
         function downloadVCard() {
-            const a = document.createElement('a');
-            a.href = 'https://raw.githubusercontent.com/mihajlozatezalo/digital-bc/refs/heads/main/contact.vfc';
-            a.download = 'contact.vcf';
-            document.body.appendChild(a);
-            a.click();
-            document.body.removeChild(a);
+            window.location.href = 'https://raw.githubusercontent.com/mihajlozatezalo/digital-bc/refs/heads/main/contact.vfc';
         }
     </script>
 </body>
