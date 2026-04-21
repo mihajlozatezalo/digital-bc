@@ -1,0 +1,13 @@
+BEGIN:VCARD
+VERSION:3.0
+PRODID:-//Apple Inc.//iPhone OS 18.2.1//EN
+N:Zatezalo;Mihajlo;;;
+FN:Mihajlo Zatezalo
+ORG:VPIP Zatezalo | Krnetić;
+EMAIL;type=INTERNET;type=HOME;type=pref:mihajlo.zatezalo@vpip-zkp.com
+TEL;type=CELL;type=VOICE;type=pref:+38163341179
+item1.ADR;type=WORK;type=pref:;;\nTeodora Drajzera 34;Beograd;;;Serbia
+item1.X-ABADR:rs
+item2.URL;type=pref:https://vpip-zkp.com/
+item2.X-ABLabel:_$!<HomePage>!$_
+END:VCARD
